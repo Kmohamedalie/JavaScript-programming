@@ -4,5 +4,5 @@ Hands on JavaScript Programming with projects a full 68.5 hours lectures by [Jon
 ### Hands on projects:
 1. Guess My Number🔢:   [github](https://kmohamedalie.github.io/gsn-game/),  [netlify ](https://gsn-game.netlify.app)<br>
 2. Pig Game 🎲:    [github ](https://kmohamedalie.github.io/pig-game/),  [netlify](https://pig-gamec.netlify.app)<br>
-3. Bankist Fintech 🏦📱:   [netlify](https://bankfintech.netlify.app/)<br>
+3. Bankist Fintech 🏦📱:   [netlify](https://bankfintech.netlify.app/), login demo details: [user1=js , pin1=1111] [user2=jd , pin2=2222]<br>
 4. Mapty workout 🗺️🏃‍♂️🚴‍♀️:   [netlify](https://mapty-w.netlify.app/)<br>
